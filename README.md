@@ -91,16 +91,3 @@ Specific IP
 ip.addr == 192.168.1.1
 
 
----
-
-🔹 10. GitHub Upload Commands
-
-git init
-git add .
-git commit -m "Wireshark project completed"
-git branch -M main
-git remote add origin https://github.com/your-username/repo-name.git
-git push -u origin main
-
-
----
